@@ -1,0 +1,24 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "pillars:stonecutter_granite_pillar"
+    },
+    "tags": [
+      "stonecutter"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:granite"
+      }
+    ],
+    "result": {
+      "item": "pillars:granite_pillar"
+    },
+    "unlock": [
+      {
+        "item": "minecraft:granite"
+      }
+    ]
+  }
+}

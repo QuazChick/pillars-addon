@@ -1,0 +1,30 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "pillars:acacia_pillar"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      " # ",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:acacia_planks"
+      }
+    },
+    "result": {
+      "item": "pillars:acacia_pillar",
+      "count": 7
+    },
+    "unlock": [
+      {
+        "item": "minecraft:acacia_planks"
+      }
+    ]
+  }
+}

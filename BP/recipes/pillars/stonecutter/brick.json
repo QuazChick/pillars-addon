@@ -1,0 +1,24 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "pillars:stonecutter_brick_pillar"
+    },
+    "tags": [
+      "stonecutter"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:brick_block"
+      }
+    ],
+    "result": {
+      "item": "pillars:brick_pillar"
+    },
+    "unlock": [
+      {
+        "item": "minecraft:brick_block"
+      }
+    ]
+  }
+}

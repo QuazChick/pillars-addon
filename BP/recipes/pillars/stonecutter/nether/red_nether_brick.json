@@ -1,0 +1,24 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "pillars:stonecutter_red_nether_brick_pillar"
+    },
+    "tags": [
+      "stonecutter"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:red_nether_brick"
+      }
+    ],
+    "result": {
+      "item": "pillars:red_nether_brick_pillar"
+    },
+    "unlock": [
+      {
+        "item": "minecraft:red_nether_brick"
+      }
+    ]
+  }
+}

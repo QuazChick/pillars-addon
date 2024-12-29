@@ -1,0 +1,28 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "pillars:waxed_oxidized_cut_copper_pillar2"
+    },
+    "priority": 2,
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "pillars:oxidized_cut_copper_pillar"
+      },
+      {
+        "item": "minecraft:honeycomb"
+      }
+    ],
+    "result": {
+      "item": "pillars:waxed_oxidized_cut_copper_pillar"
+    },
+    "unlock": [
+      {
+        "item": "pillars:oxidized_cut_copper_pillar"
+      }
+    ]
+  }
+}

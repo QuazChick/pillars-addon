@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    // Strictness
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    // We don't recommend changing any of the following options
+    "allowJs": true,
+    "resolveJsonModule": true,
+    // Built files will be emitted by Minepicker, not the TypeScript compiler
+    "noEmit": true,
+    // Minecraft JS engine uses ES2022
+    "lib": ["ES2022"],
+    "target": "ES2022",
+    "types": ["engine"],
+    // Allow imports without file extensions e.g. 'import "./test";'
+    "moduleResolution": "Bundler",
+    "module": "ES2020"
+  },
+  "exclude": ["node_modules"] // Skip checking external libraries
+}

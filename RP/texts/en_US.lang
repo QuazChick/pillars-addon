@@ -1,0 +1,48 @@
+tile.pillar.brick.name=Brick Pillar
+tile.pillar.packed_mud.name=Packed Mud Pillar
+## Cut Copper
+tile.pillar.cut_copper.name=Cut Copper Pillar
+tile.pillar.exposed_cut_copper.name=Exposed Cut Copper Pillar
+tile.pillar.weathered_cut_copper.name=Weathered Cut Copper Pillar
+tile.pillar.oxidized_cut_copper.name=Oxidized Cut Copper Pillar
+tile.pillar.waxed_cut_copper.name=Waxed Cut Copper Pillar
+tile.pillar.waxed_exposed_cut_copper.name=Waxed Exposed Cut Copper Pillar
+tile.pillar.waxed_weathered_cut_copper.name=Waxed Weathered Cut Copper Pillar
+tile.pillar.waxed_oxidized_cut_copper.name=Waxed Oxidized Cut Copper Pillar
+## Nether
+tile.pillar.nether_brick.name=Nether Brick Pillar
+tile.pillar.netherrack.name=Netherrack Pillar
+tile.pillar.polished_basalt.name=Polished Basalt Pillar
+tile.pillar.polished_blackstone.name=Polished Blackstone Pillar
+tile.pillar.quartz.name=Quartz Pillar
+tile.pillar.red_nether_brick.name=Red Nether Brick Pillar
+## Prismarine
+tile.pillar.dark_prismarine.name=Dark Prismarine Pillar
+tile.pillar.prismarine.name=Prismarine Pillar
+## Sandstone
+tile.pillar.red_sandstone.name=Red Sandstone Pillar
+tile.pillar.sandstone.name=Sandstone Pillar
+## Stone
+tile.pillar.andesite.name=Andesite Pillar
+tile.pillar.calcite.name=Calcite Pillar
+tile.pillar.diorite.name=Diorite Pillar
+tile.pillar.dripstone.name=Dripstone Pillar
+tile.pillar.granite.name=Granite Pillar
+tile.pillar.polished_deepslate.name=Polished Deepslate Pillar
+tile.pillar.stone.name=Stone Pillar
+tile.pillar.tuff.name=Tuff Pillar
+## The End
+tile.pillar.end_stone.name=End Stone Pillar
+tile.pillar.purpur.name=Purpur Pillar
+## Wood
+tile.pillar.acacia.name=Acacia Pillar
+tile.pillar.bamboo.name=Bamboo Pillar
+tile.pillar.birch.name=Birch Pillar
+tile.pillar.cherry.name=Cherry Pillar
+tile.pillar.crimson.name=Crimson Pillar
+tile.pillar.dark_oak.name=Dark Oak Pillar
+tile.pillar.jungle.name=Jungle Pillar
+tile.pillar.mangrove.name=Mangrove Pillar
+tile.pillar.oak.name=Oak Pillar
+tile.pillar.spruce.name=Spruce Pillar
+tile.pillar.warped.name=Warped Pillar

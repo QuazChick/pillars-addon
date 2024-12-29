@@ -1,0 +1,17 @@
+{
+  "printWidth": 150,
+  "overrides": [
+    {
+      "files": ["BP/recipes/**/*.json"],
+      "options": {
+        "printWidth": 1
+      }
+    },
+    {
+      "files": ["terrain_texture.json"],
+      "options": {
+        "printWidth": 1000
+      }
+    }
+  ]
+}

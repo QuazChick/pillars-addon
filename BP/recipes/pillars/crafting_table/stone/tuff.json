@@ -1,0 +1,30 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "pillars:tuff_pillar"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      " # ",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:tuff"
+      }
+    },
+    "result": {
+      "item": "pillars:tuff_pillar",
+      "count": 7
+    },
+    "unlock": [
+      {
+        "item": "minecraft:tuff"
+      }
+    ]
+  }
+}

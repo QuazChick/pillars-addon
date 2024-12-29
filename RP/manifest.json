@@ -1,0 +1,28 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Pillars",
+    "description": "",
+    "uuid": "9e3d2260-b446-4b1a-8f59-0fec8d4ff921",
+    "version": "3.0.0",
+    "min_engine_version": [1, 21, 20]
+  },
+  "metadata": {
+    "url": "https://quazchick.com/pack/pillars",
+    "authors": ["QuazChick"],
+    "license": "MIT"
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "505d3022-d459-46a2-86d8-916c8fa00ae1",
+      "version": "3.0.0"
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "d274f22d-f042-4d95-8a21-106f8fed7f9a",
+      "version": "3.0.0"
+    }
+  ]
+}

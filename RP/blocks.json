@@ -1,0 +1,50 @@
+{
+  "format_version": "1.21.20",
+  "pillars:brick_pillar": { "sound": "stone" },
+  "pillars:packed_mud_pillar": { "sound": "mud" },
+  // Cut Copper
+  "pillars:cut_copper_pillar": { "sound": "copper" },
+  "pillars:exposed_cut_copper_pillar": { "sound": "copper" },
+  "pillars:weathered_cut_copper_pillar": { "sound": "copper" },
+  "pillars:oxidized_cut_copper_pillar": { "sound": "copper" },
+  "pillars:waxed_cut_copper_pillar": { "sound": "copper" },
+  "pillars:waxed_exposed_cut_copper_pillar": { "sound": "copper" },
+  "pillars:waxed_weathered_cut_copper_pillar": { "sound": "copper" },
+  "pillars:waxed_oxidized_cut_copper_pillar": { "sound": "copper" },
+  // Nether
+  "pillars:nether_brick_pillar": { "sound": "nether_brick" },
+  "pillars:netherrack_pillar": { "sound": "netherrack" },
+  "pillars:polished_basalt_pillar": { "sound": "basalt" },
+  "pillars:polished_blackstone_pillar": { "sound": "stone" },
+  "pillars:quartz_pillar": { "sound": "stone" },
+  "pillars:red_nether_brick_pillar": { "sound": "nether_brick" },
+  // Prismarine
+  "pillars:dark_prismarine_pillar": { "sound": "stone" },
+  "pillars:prismarine_pillar": { "sound": "stone" },
+  // Sandstone
+  "pillars:red_sandstone_pillar": { "sound": "stone" },
+  "pillars:sandstone_pillar": { "sound": "stone" },
+  // Stone
+  "pillars:calcite_pillar": { "sound": "calcite" },
+  "pillars:diorite_pillar": { "sound": "stone" },
+  "pillars:dripstone_pillar": { "sound": "dripstone_block" },
+  "pillars:granite_pillar": { "sound": "stone" },
+  "pillars:polished_deepslate_pillar": { "sound": "deepslate" },
+  "pillars:stone_pillar": { "sound": "stone" },
+  "pillars:tuff_pillar": { "sound": "tuff" },
+  // The End
+  "pillars:end_stone_pillar": { "sound": "stone" },
+  "pillars:purpur_pillar": { "sound": "stone" },
+  // Wood
+  "pillars:acacia_pillar": { "sound": "wood" },
+  "pillars:bamboo_pillar": { "sound": "bamboo_wood" },
+  "pillars:birch_pillar": { "sound": "wood" },
+  "pillars:cherry_pillar": { "sound": "cherry_wood" },
+  "pillars:crimson_pillar": { "sound": "nether_wood" },
+  "pillars:dark_oak_pillar": { "sound": "wood" },
+  "pillars:jungle_pillar": { "sound": "wood" },
+  "pillars:mangrove_pillar": { "sound": "wood" },
+  "pillars:oak_pillar": { "sound": "wood" },
+  "pillars:spruce_pillar": { "sound": "wood" },
+  "pillars:warped_pillar": { "sound": "nether_wood" }
+}

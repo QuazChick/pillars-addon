@@ -1,0 +1,29 @@
+{
+  "type": "addon",
+  "target": "stable",
+  "behavior_pack": {
+    "directories": {
+      "source": "BP",
+      "build": "build/BP",
+      "development": "minecraft:/development_behavior_packs/Pillars BP"
+    },
+    "generate_contents": true,
+    "scripts": {
+      "entry": "src/index.ts",
+      "bundle": true,
+      "dependencies": {
+        "@minecraft/common": "^1.2.0",
+        "@minecraft/server": "^1.13.0"
+      }
+    }
+  },
+  "resource_pack": {
+    "directories": {
+      "source": "RP",
+      "build": "build/RP",
+      "development": "minecraft:/development_resource_packs/Pillars RP"
+    },
+    "generate_contents": true,
+    "textures": { "generate_list": true }
+  }
+}

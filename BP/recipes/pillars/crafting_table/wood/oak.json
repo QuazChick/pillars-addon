@@ -1,0 +1,30 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "pillars:oak_pillar"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      " # ",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:oak_planks"
+      }
+    },
+    "result": {
+      "item": "pillars:oak_pillar",
+      "count": 7
+    },
+    "unlock": [
+      {
+        "item": "minecraft:oak_planks"
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "resource_pack_name": "pillars",
+  "texture_name": "atlas.terrain",
+  "num_mip_levels": 4,
+  "padding": 8,
+  "texture_data": {
+    // Brick
+    "pillars_brick_pillar_cap": { "textures": "textures/pillars/blocks/brick_pillar/cap" },
+    "pillars_brick_pillar_shaft": { "textures": "textures/pillars/blocks/brick_pillar/shaft" },
+    // Packed Mud
+    "pillars_packed_mud_pillar_cap": { "textures": "textures/pillars/blocks/packed_mud_pillar/cap" },
+    "pillars_packed_mud_pillar_shaft": { "textures": "textures/pillars/blocks/packed_mud_pillar/shaft" },
+    // ----------------
+    //    Cut Copper
+    // ----------------
+    "pillars_cut_copper_pillar_cap": { "textures": "textures/pillars/blocks/cut_copper_pillar/cap" },
+    "pillars_cut_copper_pillar_shaft": { "textures": "textures/pillars/blocks/cut_copper_pillar/shaft" },
+    // Exposed
+    "pillars_exposed_cut_copper_pillar_cap": { "textures": "textures/pillars/blocks/exposed_cut_copper_pillar/cap" },
+    "pillars_exposed_cut_copper_pillar_shaft": { "textures": "textures/pillars/blocks/exposed_cut_copper_pillar/shaft" },
+    // Weathered
+    "pillars_weathered_cut_copper_pillar_cap": { "textures": "textures/pillars/blocks/weathered_cut_copper_pillar/cap" },
+    "pillars_weathered_cut_copper_pillar_shaft": { "textures": "textures/pillars/blocks/weathered_cut_copper_pillar/shaft" },
+    // Oxidised
+    "pillars_oxidized_cut_copper_pillar_cap": { "textures": "textures/pillars/blocks/oxidized_cut_copper_pillar/cap" },
+    "pillars_oxidized_cut_copper_pillar_shaft": { "textures": "textures/pillars/blocks/oxidized_cut_copper_pillar/shaft" },
+    // ----------------
+    //      Nether
+    // ----------------
+    // Nether Brick
+    "pillars_nether_brick_pillar_cap": { "textures": "textures/pillars/blocks/nether_brick_pillar/cap" },
+    "pillars_nether_brick_pillar_shaft": { "textures": "textures/pillars/blocks/nether_brick_pillar/shaft" },
+    // Netherrack
+    "pillars_netherrack_pillar_cap": { "textures": "textures/pillars/blocks/netherrack_pillar/cap" },
+    "pillars_netherrack_pillar_shaft": { "textures": "textures/pillars/blocks/netherrack_pillar/shaft" },
+    // Polished Basalt
+    "pillars_polished_basalt_pillar_cap": { "textures": "textures/pillars/blocks/polished_basalt_pillar/cap" },
+    "pillars_polished_basalt_pillar_shaft": { "textures": "textures/pillars/blocks/polished_basalt_pillar/shaft" },
+    // Polished Blackstone
+    "pillars_polished_blackstone_pillar_cap": { "textures": "textures/pillars/blocks/polished_blackstone_pillar/cap" },
+    "pillars_polished_blackstone_pillar_shaft": { "textures": "textures/pillars/blocks/polished_blackstone_pillar/shaft" },
+    // Quartz
+    "pillars_quartz_pillar_cap": { "textures": "textures/pillars/blocks/quartz_pillar/cap" },
+    "pillars_quartz_pillar_shaft": { "textures": "textures/pillars/blocks/quartz_pillar/shaft" },
+    // Red Nether Brick
+    "pillars_red_nether_brick_pillar_cap": { "textures": "textures/pillars/blocks/red_nether_brick_pillar/cap" },
+    "pillars_red_nether_brick_pillar_shaft": { "textures": "textures/pillars/blocks/red_nether_brick_pillar/shaft" },
+    // ----------------
+    //    Prismarine
+    // ----------------
+    // Dark Prismarine
+    "pillars_dark_prismarine_pillar_cap": { "textures": "textures/pillars/blocks/dark_prismarine_pillar/cap" },
+    "pillars_dark_prismarine_pillar_shaft": { "textures": "textures/pillars/blocks/dark_prismarine_pillar/shaft" },
+    // Prismarine
+    "pillars_prismarine_pillar_cap": { "textures": "textures/pillars/blocks/prismarine_pillar/cap" },
+    "pillars_prismarine_pillar_shaft": { "textures": "textures/pillars/blocks/prismarine_pillar/shaft" },
+    // ----------------
+    //     Sandstone
+    // ----------------
+    // Red Sandstone
+    "pillars_red_sandstone_pillar_cap": { "textures": "textures/pillars/blocks/red_sandstone_pillar/cap" },
+    "pillars_red_sandstone_pillar_shaft": { "textures": "textures/pillars/blocks/red_sandstone_pillar/shaft" },
+    // Sandstone
+    "pillars_sandstone_pillar_cap": { "textures": "textures/pillars/blocks/sandstone_pillar/cap" },
+    "pillars_sandstone_pillar_shaft": { "textures": "textures/pillars/blocks/sandstone_pillar/shaft" },
+    // ----------------
+    //       Stone
+    // ----------------
+    // Andesite
+    "pillars_andesite_pillar_cap": { "textures": "textures/pillars/blocks/andesite_pillar/cap" },
+    "pillars_andesite_pillar_shaft": { "textures": "textures/pillars/blocks/andesite_pillar/shaft" },
+    // Calcite
+    "pillars_calcite_pillar_cap": { "textures": "textures/pillars/blocks/calcite_pillar/cap" },
+    "pillars_calcite_pillar_shaft": { "textures": "textures/pillars/blocks/calcite_pillar/shaft" },
+    // Diorite
+    "pillars_diorite_pillar_cap": { "textures": "textures/pillars/blocks/diorite_pillar/cap" },
+    "pillars_diorite_pillar_shaft": { "textures": "textures/pillars/blocks/diorite_pillar/shaft" },
+    // Dripstone
+    "pillars_dripstone_pillar_cap": { "textures": "textures/pillars/blocks/dripstone_pillar/cap" },
+    "pillars_dripstone_pillar_shaft": { "textures": "textures/pillars/blocks/dripstone_pillar/shaft" },
+    // Granite
+    "pillars_granite_pillar_cap": { "textures": "textures/pillars/blocks/granite_pillar/cap" },
+    "pillars_granite_pillar_shaft": { "textures": "textures/pillars/blocks/granite_pillar/shaft" },
+    // Polished Deepslate
+    "pillars_polished_deepslate_pillar_cap": { "textures": "textures/pillars/blocks/polished_deepslate_pillar/cap" },
+    "pillars_polished_deepslate_pillar_shaft": { "textures": "textures/pillars/blocks/polished_deepslate_pillar/shaft" },
+    // Stone
+    "pillars_stone_pillar_cap": { "textures": "textures/pillars/blocks/stone_pillar/cap" },
+    "pillars_stone_pillar_shaft": { "textures": "textures/pillars/blocks/stone_pillar/shaft" },
+    // Tuff
+    "pillars_tuff_pillar_cap": { "textures": "textures/pillars/blocks/tuff_pillar/cap" },
+    "pillars_tuff_pillar_shaft": { "textures": "textures/pillars/blocks/tuff_pillar/shaft" },
+    // ----------------
+    //     The End
+    // ----------------
+    // End Stone
+    "pillars_end_stone_pillar_cap": { "textures": "textures/pillars/blocks/end_stone_pillar/cap" },
+    "pillars_end_stone_pillar_shaft": { "textures": "textures/pillars/blocks/end_stone_pillar/shaft" },
+    // Purpur
+    "pillars_purpur_pillar_cap": { "textures": "textures/pillars/blocks/purpur_pillar/cap" },
+    "pillars_purpur_pillar_shaft": { "textures": "textures/pillars/blocks/purpur_pillar/shaft" },
+    // ----------------
+    //       Wood
+    // ----------------
+    // Acacia
+    "pillars_acacia_pillar_cap": { "textures": "textures/pillars/blocks/acacia_pillar/cap" },
+    "pillars_acacia_pillar_shaft": { "textures": "textures/pillars/blocks/acacia_pillar/shaft" },
+    // Bamboo
+    "pillars_bamboo_pillar_cap": { "textures": "textures/pillars/blocks/bamboo_pillar/cap" },
+    "pillars_bamboo_pillar_shaft": { "textures": "textures/pillars/blocks/bamboo_pillar/shaft" },
+    // Birch
+    "pillars_birch_pillar_cap": { "textures": "textures/pillars/blocks/birch_pillar/cap" },
+    "pillars_birch_pillar_shaft": { "textures": "textures/pillars/blocks/birch_pillar/shaft" },
+    // Cherry
+    "pillars_cherry_pillar_cap": { "textures": "textures/pillars/blocks/cherry_pillar/cap" },
+    "pillars_cherry_pillar_shaft": { "textures": "textures/pillars/blocks/cherry_pillar/shaft" },
+    // Crimson
+    "pillars_crimson_pillar_cap": { "textures": "textures/pillars/blocks/crimson_pillar/cap" },
+    "pillars_crimson_pillar_shaft": { "textures": "textures/pillars/blocks/crimson_pillar/shaft" },
+    // Dark Oak
+    "pillars_dark_oak_pillar_cap": { "textures": "textures/pillars/blocks/dark_oak_pillar/cap" },
+    "pillars_dark_oak_pillar_shaft": { "textures": "textures/pillars/blocks/dark_oak_pillar/shaft" },
+    // Jungle
+    "pillars_jungle_pillar_cap": { "textures": "textures/pillars/blocks/jungle_pillar/cap" },
+    "pillars_jungle_pillar_shaft": { "textures": "textures/pillars/blocks/jungle_pillar/shaft" },
+    // Mangrove
+    "pillars_mangrove_pillar_cap": { "textures": "textures/pillars/blocks/mangrove_pillar/cap" },
+    "pillars_mangrove_pillar_shaft": { "textures": "textures/pillars/blocks/mangrove_pillar/shaft" },
+    // Oak
+    "pillars_oak_pillar_cap": { "textures": "textures/pillars/blocks/oak_pillar/cap" },
+    "pillars_oak_pillar_shaft": { "textures": "textures/pillars/blocks/oak_pillar/shaft" },
+    // Spruce
+    "pillars_spruce_pillar_cap": { "textures": "textures/pillars/blocks/spruce_pillar/cap" },
+    "pillars_spruce_pillar_shaft": { "textures": "textures/pillars/blocks/spruce_pillar/shaft" },
+    // Warped
+    "pillars_warped_pillar_cap": { "textures": "textures/pillars/blocks/warped_pillar/cap" },
+    "pillars_warped_pillar_shaft": { "textures": "textures/pillars/blocks/warped_pillar/shaft" }
+  }
+}

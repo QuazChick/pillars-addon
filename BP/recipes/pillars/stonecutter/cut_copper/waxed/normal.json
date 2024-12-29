@@ -1,0 +1,25 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "pillars:stonecutter_waxed_cut_copper_pillar"
+    },
+    "tags": [
+      "stonecutter"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:waxed_copper"
+      }
+    ],
+    "result": {
+      "item": "pillars:waxed_cut_copper_pillar",
+      "count": 4
+    },
+    "unlock": [
+      {
+        "item": "minecraft:waxed_copper"
+      }
+    ]
+  }
+}

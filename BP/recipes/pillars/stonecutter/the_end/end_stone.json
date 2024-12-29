@@ -1,0 +1,24 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "pillars:stonecutter_end_stone_pillar"
+    },
+    "tags": [
+      "stonecutter"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:end_stone"
+      }
+    ],
+    "result": {
+      "item": "pillars:end_stone_pillar"
+    },
+    "unlock": [
+      {
+        "item": "minecraft:end_stone"
+      }
+    ]
+  }
+}

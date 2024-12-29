@@ -1,0 +1,30 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "pillars:andesite_pillar"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      " # ",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:andesite"
+      }
+    },
+    "result": {
+      "item": "pillars:andesite_pillar",
+      "count": 7
+    },
+    "unlock": [
+      {
+        "item": "minecraft:andesite"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "*.json": "jsonc"
+  },
+  "json.schemas": [
+    {
+      "fileMatch": ["creation.json"],
+      "url": "https://creator.minepicker.com/schemas/creation.json"
+    }
+  ]
+}

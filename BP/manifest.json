@@ -1,0 +1,35 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Pillars",
+    "description": "",
+    "uuid": "d274f22d-f042-4d95-8a21-106f8fed7f9a",
+    "version": "3.0.0",
+    "min_engine_version": [1, 21, 20]
+  },
+  "metadata": {
+    "url": "https://quazchick.com/pack/pillars",
+    "authors": ["QuazChick"],
+    "license": "MIT",
+    "generated_with": { "minepicker-creator": ["0.1.9"] }
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "4a4810af-19cc-48fe-9359-497663211ae4",
+      "version": "3.0.0"
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "entry": "src/index.js",
+      "uuid": "0e8e5da6-a281-4668-9209-fb8ba2466129",
+      "version": "1.0.0"
+    }
+  ],
+  "dependencies": [
+    { "uuid": "9e3d2260-b446-4b1a-8f59-0fec8d4ff921", "version": "3.0.0" },
+    { "module_name": "@minecraft/common", "version": "1.2.0" },
+    { "module_name": "@minecraft/server", "version": "1.13.0" }
+  ]
+}

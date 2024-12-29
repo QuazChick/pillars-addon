@@ -1,0 +1,30 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "pillars:dripstone_pillar"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      " # ",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:dripstone_block"
+      }
+    },
+    "result": {
+      "item": "pillars:dripstone_pillar",
+      "count": 7
+    },
+    "unlock": [
+      {
+        "item": "minecraft:dripstone_block"
+      }
+    ]
+  }
+}

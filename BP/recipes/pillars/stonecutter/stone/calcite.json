@@ -1,0 +1,24 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "pillars:stonecutter_calcite_pillar"
+    },
+    "tags": [
+      "stonecutter"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:calcite"
+      }
+    ],
+    "result": {
+      "item": "pillars:calcite_pillar"
+    },
+    "unlock": [
+      {
+        "item": "minecraft:calcite"
+      }
+    ]
+  }
+}

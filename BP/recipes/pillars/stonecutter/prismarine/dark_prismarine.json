@@ -1,0 +1,26 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "pillars:stonecutter_dark_prismarine_pillar"
+    },
+    "tags": [
+      "stonecutter"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:prismarine",
+        "data": 1
+      }
+    ],
+    "result": {
+      "item": "pillars:dark_prismarine_pillar"
+    },
+    "unlock": [
+      {
+        "item": "minecraft:prismarine",
+        "data": 1
+      }
+    ]
+  }
+}
